@@ -53,8 +53,8 @@ input::placeholder {
   border: none;
   padding: 10px;
   background: linear-gradient(
-    rgba(68, 114, 167, 0.5),
-    rgba(169, 249, 255, 0.5)
+    rgba(82, 82, 82, 0.5),
+    rgba(112, 112, 112, 0.5)
   );
   outline: none;
 }
