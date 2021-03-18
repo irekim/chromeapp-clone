@@ -6,7 +6,7 @@
 - 사용자 이름 local storage로 저장하기
 - 추가 기능,
   지우기 기능
-  ![EX](./images/00.png)
+  ![Preview](./images/00.png)
 
 ---
 
